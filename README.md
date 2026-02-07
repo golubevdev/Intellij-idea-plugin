@@ -57,4 +57,5 @@ dependencies {
 Hope it works, if not - u can create same new plugin but without "add samples" checked, than placed things above
 
 ⚠️ **Disclaimer:** This is not an official guide. These solutions worked for my specific configuration and may not work for everyone. Always test changes in a safe environment first.
+
 **Legal Notice:** The information in this README is provided "as is" without warranty of any kind. The author disclaims all liability for any damages, direct or indirect, that may result from the use or misuse of this information.
